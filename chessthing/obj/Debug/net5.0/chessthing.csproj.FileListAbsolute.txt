@@ -1,0 +1,16 @@
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/chessthing
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/chessthing.deps.json
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/chessthing.runtimeconfig.json
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/chessthing.runtimeconfig.dev.json
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/chessthing.dll
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/ref/chessthing.dll
+/home/gohan/RiderProjects/chessthing/chessthing/bin/Debug/net5.0/chessthing.pdb
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.csprojAssemblyReference.cache
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.GeneratedMSBuildEditorConfig.editorconfig
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.AssemblyInfoInputs.cache
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.AssemblyInfo.cs
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.csproj.CoreCompileInputs.cache
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.dll
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/ref/chessthing.dll
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.pdb
+/home/gohan/RiderProjects/chessthing/chessthing/obj/Debug/net5.0/chessthing.genruntimeconfig.cache

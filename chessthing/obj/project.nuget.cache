@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGFP6SlhcMsAJtE/a2bAO1+AY2on4qlhvoQFGxsVfvLs6r44Ry1IuipeVf6VY1W/kP0qwRRKiob3YQFqxXyBxw==",
+  "success": true,
+  "projectFilePath": "/home/gohan/RiderProjects/chessthing/chessthing/chessthing.csproj",
+  "expectedPackageFiles": [
+    "/home/gohan/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
